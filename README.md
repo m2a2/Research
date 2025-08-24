@@ -15,9 +15,15 @@
 | Title                                                                                                               | Recording                                                       | Slides                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | OWASP AppSecIL 2025: Let's be Authentik: ORMs Are Awesome (P.S. Your Identity is Mine)                              | N/A                                                             | https://github.com/m2a2/Research/blob/main/presentations/2025/OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf |
-| BluHatIL 2025: Let's be Authentik: Your Identity is Mine                                                            |                                                                 |                                                                                                             |
+| BluHat IL 2025: Let's be Authentik: Your Identity is Mine                                                           | [BlueHat IL 2025](https://www.youtube.com/watch?v=_-SHa7LaAvA)  |                                                                                                             |
 | Insomnihack 2025: Your Identity Is Mine: Techniques And Insights From OS Identity Providers Research - Maor Abutbul | [Insomnihack 2025](https://www.youtube.com/watch?v=5Y4bBw1XGgI) |                                                                                                             |
 | Nullcon Goa 2025: Your Identity Is Mine: Techniques & Insights From OS Identity Providers Research                  | [Nullcon Goa 2025](https://www.youtube.com/watch?v=FtoaQHYmUD0) |                                                                                                             |
 
+### Misc (Writeups & Workshops)
 
-### Misc (Writeups)
+| Title         | Slides |
+|--|------------------------------------------------------------------------------------|
+| Web security: From the protocol to exploiting vulnerabilities (Hackeriot Workshop) | [Hackeriot_2025-Web-Security_Workshop_Labs](https://github.com/m2a2/Research/blob/main/Workshops/2025_Hackeriot/Hackeriot_2025-Web-Security_Workshop_Labs.pdf)|
+|  |                                                                                    |
+
+
