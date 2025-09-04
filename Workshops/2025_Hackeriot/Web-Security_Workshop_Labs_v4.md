@@ -16,6 +16,9 @@ https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Base6
 
 ## Labs
 
+Register (sign up) at Portswigger Web-Security Academy
+- https://portswigger.net/web-security
+
 ### Path \ Directory Traversal
 
 - [https://](https://portswigger.net/web-security/file-path-traversal/lab-simple)[portswigger.net/web-security/file-path-traversal/lab-simple](https://portswigger.net/web-security/file-path-traversal/lab-simple)
@@ -35,10 +38,6 @@ https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Base6
 
 - [https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-objects](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-objects)
 
-## Extra Labs - Juice Shop
-
-https://pwning.owasp-juice.shop/companion-guide/latest/index.html
-
 ---
 
 # Resources
@@ -46,7 +45,7 @@ https://pwning.owasp-juice.shop/companion-guide/latest/index.html
 
 - [Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview)
 
-## Local Web server (Using Docker)
+## Local Web Server (Using Docker)
 
 [httpd - Official Image | Docker Hub](https://hub.docker.com/_/httpd)
 
@@ -55,15 +54,19 @@ https://pwning.owasp-juice.shop/companion-guide/latest/index.html
 - [OWASP Top 10:2021](https://owasp.org/Top10/)
 - [All Web Security Academy topics | Web Security Academy - PortSwigger](https://portswigger.net/web-security/all-topics)
 
+# Extra Labs - Juice Shop
+
+https://pwning.owasp-juice.shop/companion-guide/latest/index.html
+
 # Workshop Feedback
 
-- https://forms.gle/oQCYRNAMMnpYE4BLA
+- https://hackeriot.fillout.com/t/qrWoeAuHhous
 
 ## Workshop Slides and Labs
 
 https://github.com/m2a2/Research/tree/main/Workshops/2025_Hackeriot
 
-### Contact Us
+## Contact Us
 
 - Maor [Maor Abutbul | LinkedIn](https://il.linkedin.com/in/maor-abutbul)
 - Eviatar [Eviatar Gerzi | LinkedIn](https://il.linkedin.com/in/eviatar-g-25bb6225)
