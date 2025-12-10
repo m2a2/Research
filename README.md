@@ -4,11 +4,18 @@
 
 ### Articles & Blog Posts
 
-| Date       | Title & URL                                    |
-|------------|------------------------------------------------|
+| Date       | Title & URL                                                                                                                                           |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025.11.18 | [Racing and Fuzzing HTTP/3: Open-sourcing QuicDraw(H3)](https://www.cyberark.com/resources/threat-research-blog/racing-and-fuzzing-http-3-open-sourcing-quicdraw)|
 | 2025.02.28 | [Let’s Be Authentik: You Can’t Always Leak ORMs](https://www.cyberark.com/resources/threat-research-blog/lets-be-authentik-you-cant-always-leak-orms) |
-| 2024.07.01 | [You can’t always win racing the (key)cloak](https://www.cyberark.com/resources/threat-research-blog/you-cant-always-win-racing-the-keycloak)    |
-|            |                                                |
+| 2024.07.01 | [You can’t always win racing the (key)cloak](https://www.cyberark.com/resources/threat-research-blog/you-cant-always-win-racing-the-keycloak)         |
+
+### Open-Source Tools / Repos
+
+| Name          | Repository                             | Description                                                                                    |
+|---------------|----------------------------------------|------------------------------------------------------------------------------------------------|
+| QuicDraw (H3) | https://github.com/cyberark/QuicDrawH3 | QuicDraw(H3) is A security research tool designed for fuzzing and racing HTTP/3 servers.       |
+| Awesome-HTTP3 | https://github.com/m2a2/awesome-http3  | A curated list of HTTP/3 and QUIC-related Implementations, Articles, Security blogs, and Tools |
 
 ### Presentations
 
