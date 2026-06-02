@@ -18,8 +18,8 @@
 ### Upcoming 
 Conference | Title | Date | Abstract |
 | -------  |---    |----  | ----     |
-| BlueHat IL 2026 | Why-So-QUIC!? Racing and Fuzzing HTTP/3 WebApps using QuicDraw-UI | 24.06.2026 | https://www.microsoftrnd.co.il/bluehatil/conference/abstracts#collapse-12 |
-| Black Hat Arsenal USA (2026) | QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | 1-6.08.2026 | https://blackhat.com/us-26/arsenal/schedule/index.html#quicdraw-amp-quicdraw-ui-racing-and-fuzzing-http3-51878 |
+| BlueHat IL 2026 | Why-So-QUIC!? Racing and Fuzzing HTTP/3 WebApps using QuicDraw-UI | 24.06.2026 | [BlueHat IL 2026](https://www.microsoftrnd.co.il/bluehatil/conference/abstracts#collapse-12) |
+| Black Hat Arsenal USA (2026) | QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | 1-6.08.2026 | [Black Hat Arsenal USA (2026)](https://blackhat.com/us-26/arsenal/schedule/index.html#quicdraw-amp-quicdraw-ui-racing-and-fuzzing-http3-51878) |
 
 ### Presented
 | Title                                                                                                               | Recording                                                       | Abstract / Slides|
