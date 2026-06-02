@@ -1,9 +1,7 @@
 # Research
 
 ## Research Portfolio
-
 ### Articles & Blog Posts
-
 | Date       | Title & URL                                                                                                                                           |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2025.11.18 | [Racing and Fuzzing HTTP/3: Open-sourcing QuicDraw(H3)](https://www.cyberark.com/resources/threat-research-blog/racing-and-fuzzing-http-3-open-sourcing-quicdraw)|
@@ -11,7 +9,6 @@
 | 2024.07.01 | [You can’t always win racing the (key)cloak](https://www.cyberark.com/resources/threat-research-blog/you-cant-always-win-racing-the-keycloak)         |
 
 ### Open-Source Tools / Repos
-
 | Name          | Repository                             | Description                                                                                    |
 |---------------|----------------------------------------|------------------------------------------------------------------------------------------------|
 | QuicDraw (H3) | https://github.com/cyberark/QuicDrawH3 | QuicDraw(H3) is A security research tool designed for fuzzing and racing HTTP/3 servers.       |
@@ -19,19 +16,20 @@
 
 ## Presentations
 ### Upcoming 
-| Title | Date | Abstract |
-| -------|--|----|
-| Why-So-QUIC!? Racing and Fuzzing HTTP/3 with QuicDraw-UI | 28.02.2026 | https://nullcon.net/goa-2026/speaker-Introducing-QuicDraw-(H3)-goa26 |
-| Why-So-QUIC!? Racing and Fuzzing HTTP/3                  | 11.03.2026 | https://www.microsoftrnd.co.il/bluehatil/conference/abstracts#collapse-12 |
+Conference | Title | Date | Abstract |
+| -------  |---    |----  | ----     |
+| BlueHat IL 2026 | Why-So-QUIC!? Racing and Fuzzing HTTP/3 WebApps using QuicDraw-UI | 24.06.2026 | https://www.microsoftrnd.co.il/bluehatil/conference/abstracts#collapse-12 |
+| Black Hat Arsenal USA (2026) | QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | 1-6.08.2026 | https://blackhat.com/us-26/arsenal/schedule/index.html#quicdraw-amp-quicdraw-ui-racing-and-fuzzing-http3-51878 |
 
 ### Presented
-| Title                                                                                                               | Recording                                                       | Slides                                                                                                                                                                           |
+| Title                                                                                                               | Recording                                                       | Abstract / Slides|
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| BlackAlps 2025: HTTP/3 on the RaceTrack - Introducing QuicDraw                                                      |                                                                 | [Abstract](https://blackalps.ch/ba-25/talks.php#45)                                                                                        |
-| OWASP AppSecIL 2025: Let's be Authentik: ORMs Are Awesome (P.S. Your Identity is Mine)                              | N/A                                                             | [OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf](https://github.com/m2a2/Research/blob/main/presentations/2025/OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf)                     |
+| Why-So-QUIC!? Racing and Fuzzing HTTP/3 with QuicDraw-UI 															  | 																| [Abstract](https://nullcon.net/talk/why-so-quic-racing-and-fuzzing-http-3-with-quicdraw-ui/) |
+| BlackAlps 2025: HTTP/3 on the RaceTrack - Introducing QuicDraw                                                      |                                                                 | [Abstract](https://blackalps.ch/ba-25/talks.php#45)|
+| OWASP AppSecIL 2025: Let's be Authentik: ORMs Are Awesome (P.S. Your Identity is Mine)                              | N/A                                                             | [OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf](https://github.com/m2a2/Research/blob/main/presentations/2025/OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf)|
 | BlueHat IL 2025 - Maor Abutbul - Let's be Authentik: Your identity is Mine                                          | [BlueHat IL 2025](https://www.youtube.com/watch?v=_-SHa7LaAvA)  | [BlueHatIL_2025_Lets_Be_Authentik_v39_Final_FullPage.pdf](https://github.com/m2a2/Research/blob/main/presentations/2025/BlueHatIL_2025_Lets_Be_Authentik_v39_Final_FullPage.pdf) |
-| Insomnihack 2025: Your Identity Is Mine: Techniques And Insights From OS Identity Providers Research - Maor Abutbul | [Insomnihack 2025](https://www.youtube.com/watch?v=5Y4bBw1XGgI) | [Abstract](https://insomnihack.ch/talks/your-identity-is-mine-techniques-and-insights-from-os-identity-providers-research/)                                                                                         |
-| Nullcon Goa 2025: Your Identity Is Mine: Techniques & Insights From OS Identity Providers Research                  | [Nullcon Goa 2025](https://www.youtube.com/watch?v=FtoaQHYmUD0) |                                                                                                                                                                                  |
+| Insomnihack 2025: Your Identity Is Mine: Techniques And Insights From OS Identity Providers Research - Maor Abutbul | [Insomnihack 2025](https://www.youtube.com/watch?v=5Y4bBw1XGgI) | [Abstract](https://insomnihack.ch/talks/your-identity-is-mine-techniques-and-insights-from-os-identity-providers-research/)|
+| Nullcon Goa 2025: Your Identity Is Mine: Techniques & Insights From OS Identity Providers Research                  | [Nullcon Goa 2025](https://www.youtube.com/watch?v=FtoaQHYmUD0) | [Abstract](https://nullcon.net/talk/your-identity-is-mine-techniques-and-insights-from-os-identity-providers-research/)|
 
 ### Misc (Writeups & Workshops)
 | Title                                                                                   | URL / Slides                                                                                                                                                  |
