@@ -18,13 +18,14 @@
 ### Upcoming 
 Conference | Title | Date | Abstract |
 | -------  |---    |----  | ----     |
-| BlueHat IL 2026 | Why-So-QUIC!? Racing and Fuzzing HTTP/3 WebApps using QuicDraw-UI | 24.06.2026 | [BlueHat IL 2026](https://www.microsoftrnd.co.il/bluehatil/conference/abstracts#collapse-12) |
-| Black Hat Arsenal USA (2026) | QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | 1-6.08.2026 | [Black Hat Arsenal USA (2026)](https://blackhat.com/us-26/arsenal/schedule/index.html#quicdraw-amp-quicdraw-ui-racing-and-fuzzing-http3-51878) |
+|   Hackeriot Workshop   |    Web security: From the protocol to exploiting vulnerabilities (Workshop)    | 2026.09.07 |   https://www.hackeriot.org/workshop2026#:~:text=Eviatar%20Gerzi-,Maor%20Abutbul,-Senior%20Security%20Researcher   |
 
 ### Presented
 | Title                                                                                                               | Recording                                                       | Abstract / Slides|
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Why-So-QUIC!? Racing and Fuzzing HTTP/3 with QuicDraw-UI 															  | 																| [Abstract](https://nullcon.net/talk/why-so-quic-racing-and-fuzzing-http-3-with-quicdraw-ui/) |
+| Black Hat Arsenal USA (2026) - QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | 								N/A								| [Black Hat Arsenal USA (2026) Abstract](https://blackhat.com/us-26/arsenal/schedule/index.html#quicdraw-amp-quicdraw-ui-racing-and-fuzzing-http3-51878) |
+| BlueHat IL 2026 - Maor Abutbul - Why-So-QUIC!? Racing and Fuzzing HTTP/3 WebApps using QuicDraw-UI										  | 								[BlueHat IL 2026](https://www.youtube.com/watch?v=tOfBfbc5ClY)								| [BlueHat IL 2026 Abstract](https://www.microsoftrnd.co.il/bluehatil/conference/abstracts#collapse-12) |
+| Nullcon Goa 2026: Why-So-QUIC!? Racing and Fuzzing HTTP/3 with QuicDraw-UI 															  | 								[Nullcon Goa 2025](https://www.youtube.com/watch?v=irc91zTMCg8)								| [Abstract](https://nullcon.net/talk/why-so-quic-racing-and-fuzzing-http-3-with-quicdraw-ui/) |
 | BlackAlps 2025: HTTP/3 on the RaceTrack - Introducing QuicDraw                                                      |                                                                 | [Abstract](https://blackalps.ch/ba-25/talks.php#45)|
 | OWASP AppSecIL 2025: Let's be Authentik: ORMs Are Awesome (P.S. Your Identity is Mine)                              | N/A                                                             | [OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf](https://github.com/m2a2/Research/blob/main/presentations/2025/OWASP_AppSecIL_2025_Lets_Be_Authentik_v44.pdf)|
 | BlueHat IL 2025 - Maor Abutbul - Let's be Authentik: Your identity is Mine                                          | [BlueHat IL 2025](https://www.youtube.com/watch?v=_-SHa7LaAvA)  | [BlueHatIL_2025_Lets_Be_Authentik_v39_Final_FullPage.pdf](https://github.com/m2a2/Research/blob/main/presentations/2025/BlueHatIL_2025_Lets_Be_Authentik_v39_Final_FullPage.pdf) |
