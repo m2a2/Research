@@ -1,0 +1,22 @@
+/* Also just a file. The server has no idea what CSS is. */
+body {
+  max-width: 34rem;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+  font: 16px/1.6 system-ui, sans-serif;
+  color: #1a1a1a;
+}
+h1 { font-size: 1.5rem; }
+code, pre { background: #f4f4f5; border-radius: 4px; }
+code { padding: 0.1em 0.3em; font-size: 0.9em; }
+pre { padding: 0.8rem 1rem; overflow-x: auto; }
+.caption { margin-top: 2.5rem; color: #6b7280; font-size: 0.85em; }
+.caption time { color: #1a1a1a; }
+.caption button {
+  font: inherit;
+  padding: 0.1em 0.6em;
+  border: 1px solid #d4d4d8;
+  border-radius: 4px;
+  background: #f4f4f5;
+  cursor: pointer;
+}

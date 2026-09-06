@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>I am a file</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>I am a file on disk.</h1>
+  <p>
+    You asked for <code>/index.html</code> and the server found
+    <code>1-file-server/site/index.html</code> and handed you its bytes.
+    Nothing was computed. Nobody made a decision.
+  </p>
+  <p>Prove it:</p>
+  <pre>cat site/index.html
+curl localhost:8000/index.html
+# byte for byte identical</pre>
+  <p>Now edit this sentence, save, and reload. ______</p>
+  <p class="caption">
+    Today is <time id="today">(a date this file was never told)</time>
+    <button id="refresh" type="button">update</button>
+    <br>
+    Reload the page and it goes back to the placeholder: that string is what is
+    actually on disk. The server did not fill in the date &mdash; your browser
+    did, when you clicked.
+  </p>
+  <p>
+  https://github.com/m2a2/Research/tree/main/Workshops
+  </p>
+  <script src="clock.js"></script>
+</body>
+</html>
