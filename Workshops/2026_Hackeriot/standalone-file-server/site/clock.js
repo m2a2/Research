@@ -4,7 +4,7 @@ const today = document.getElementById("today");
 
 document.getElementById("refresh").addEventListener("click", () => {
   const now = new Date();
-  today.dateTime = now.toISOString().slice(0, 16);
+  today.dateTime = now.toISOString().slice(0, 10);
   today.textContent = now.toLocaleDateString(undefined, {
     weekday: "long",
     year: "numeric",

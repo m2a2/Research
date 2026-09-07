@@ -14,6 +14,20 @@ Download Burp Suite Community Edition - PortSwigger [https://portswigger.net/bur
 
 https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Base64('A-Za-z0-9%2B/%3D',true,false/disabled)&input=SGFja2VyaW90
 
+## Mini Lab - Inspecting HTTP Protocol (+ Client-side Code - JavaScript)
+
+Download - [standalone-file-server.zip](https://github.com/m2a2/Research/blob/main/Workshops/2026_Hackeriot/standalone-file-server.zip)
+Unzip standalone-file-server.zip
+
+```
+Execute run.sh OR run.cmd
+
+# Equivalent one-liner without the scripts:
+cd site && python3 -m http.server 8000     # Windows: cd site && py -m http.server 8000
+```
+(Optional Wireshark – loopback interface - filter: "HTTP")
+Open Browser http://localhost:8000
+
 ## Labs
 
 Register (sign up) at Portswigger Web-Security Academy
@@ -62,6 +76,7 @@ https://pwning.owasp-juice.shop/companion-guide/latest/index.html
 # Workshop Feedback
 
 ![ff899b5a282db4c693adb4d0f36e24b6.png](./ff899b5a282db4c693adb4d0f36e24b6.png)
+
 - https://forms.gle/JTiC1v2jnnoCjde76
 
 ## Workshop Slides and Labs
